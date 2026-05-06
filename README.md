@@ -1,4 +1,4 @@
 # bushraFirst
-This ia an my first Git repository
+This is an my first Git repository
 <br><h1>
 Author - Bushra Shaikh
